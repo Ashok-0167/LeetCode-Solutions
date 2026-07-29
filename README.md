@@ -99,6 +99,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
@@ -146,6 +147,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -174,6 +176,7 @@
 | [3499-maximize-active-section-with-trade-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -257,6 +260,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -320,6 +324,7 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Segment Tree
 |  |
 | ------- |
