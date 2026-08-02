@@ -47,6 +47,7 @@
 | [0001-two-sum](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0200-number-of-islands](https://github.com/Ashok-0167/LeetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -87,6 +88,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/Ashok-0167/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -97,6 +99,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0037-sudoku-solver](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [2351-first-letter-to-appear-twice](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -135,6 +138,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0077-combinations](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0494-target-sum) |
 ## Math
