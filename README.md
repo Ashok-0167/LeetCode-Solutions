@@ -60,6 +60,7 @@
 | [0565-array-nesting](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0565-array-nesting) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0821-shortest-distance-to-a-character](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0833-find-and-replace-in-string](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [1260-shift-2d-grid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -110,6 +111,7 @@
 | [0141-linked-list-cycle](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0833-find-and-replace-in-string](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -196,6 +198,7 @@
 | [0125-valid-palindrome](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0833-find-and-replace-in-string](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0856-score-of-parentheses](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -289,6 +292,7 @@
 | [0075-sort-colors](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0833-find-and-replace-in-string](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [1288-remove-covered-intervals](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
