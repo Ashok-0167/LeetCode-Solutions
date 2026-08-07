@@ -52,6 +52,7 @@
 | [0041-first-missing-positive](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0200-number-of-islands](https://github.com/Ashok-0167/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0494-target-sum) |
@@ -221,6 +222,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -366,6 +368,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
 |  |
@@ -376,4 +379,24 @@
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
