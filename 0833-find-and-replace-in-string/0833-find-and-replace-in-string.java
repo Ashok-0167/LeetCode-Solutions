@@ -1,5 +1,5 @@
 class Solution {
-       public String findReplaceString(String S, int[] indexes, String[] sources, String[] targets) {
+        public String findReplaceString(String S, int[] indexes, String[] sources, String[] targets) {
         Map<Integer, Integer> table = new HashMap<>();
         for (int i=0; i<indexes.length; i++) {
             if (S.startsWith(sources[i], indexes[i])) {
