@@ -57,6 +57,7 @@
 | [0486-predict-the-winner](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0565-array-nesting](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0565-array-nesting) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0821-shortest-distance-to-a-character](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1260-shift-2d-grid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -133,6 +134,7 @@
 | [0141-linked-list-cycle](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0821-shortest-distance-to-a-character](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1768-merge-strings-alternately](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -223,6 +225,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -282,6 +285,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1288-remove-covered-intervals](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -318,6 +322,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
