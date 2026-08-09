@@ -61,6 +61,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0821-shortest-distance-to-a-character](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0833-find-and-replace-in-string](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0833-find-and-replace-in-string) |
+| [1140-stone-game-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -169,6 +170,7 @@
 | [0326-power-of-three](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1140-stone-game-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1406-stone-game-iii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1766-tree-of-coprimes](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1766-tree-of-coprimes) |
@@ -221,6 +223,7 @@
 | [0322-coin-change](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [1140-stone-game-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
@@ -278,6 +281,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Greedy
@@ -326,6 +330,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## String Matching
 |  |
@@ -423,9 +428,11 @@
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
