@@ -170,6 +170,7 @@
 | [0231-power-of-two](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -328,6 +329,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 ## Game Theory
 |  |
 | ------- |
