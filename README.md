@@ -205,6 +205,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
+| [0394-decode-string](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0833-find-and-replace-in-string](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0856-score-of-parentheses](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
@@ -280,6 +281,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0394-decode-string](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Prefix Sum
@@ -372,6 +374,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 ## Bit Manipulation
 |  |
