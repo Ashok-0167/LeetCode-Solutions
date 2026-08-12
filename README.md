@@ -53,6 +53,7 @@
 | [0031-next-permutation](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0057-insert-interval](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0200-number-of-islands](https://github.com/Ashok-0167/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
