@@ -55,6 +55,7 @@
 | [0041-first-missing-positive](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0057-insert-interval](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0137-single-number-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/Ashok-0167/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -383,6 +384,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
