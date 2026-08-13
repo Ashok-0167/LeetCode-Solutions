@@ -56,6 +56,7 @@
 | [0057-insert-interval](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Ashok-0167/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -116,6 +117,7 @@
 | [0037-sudoku-solver](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0389-find-the-difference) |
@@ -307,6 +309,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -321,6 +324,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2351-first-letter-to-appear-twice](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -419,6 +423,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Binary Indexed Tree
 |  |
@@ -439,6 +444,7 @@
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 ## Minimax
 |  |
