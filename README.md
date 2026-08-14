@@ -55,6 +55,7 @@
 | [0041-first-missing-positive](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0057-insert-interval](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0120-triangle](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0137-single-number-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Ashok-0167/LeetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -233,6 +234,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0494-target-sum) |
